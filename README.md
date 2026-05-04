@@ -33,16 +33,9 @@
 
 ## スクリーンショット
 
-スクリーンショットは以下の3枚を掲載予定です。
-
-```text
-screenshots/screenshot_menu.png
-screenshots/screenshot_game.png
-screenshots/screenshot_result.png
-```
-
 | メニュー画面 | 対局画面 | 勝敗表示 |
 | --- | --- | --- |
+| ![メニュー画面](screenshots/screenshot_menu.png) | ![対局画面](screenshots/screenshot_game.png) | ![勝敗表示](screenshots/screenshot_result.png) |
 | CPUの強さ、自分の色、自分のキャラクターを選択できます。 | 合法手がハイライトされ、リカとマイの会話を見ながら対局できます。 | 対局終了時は、勝利・敗北・引き分けが画面中央に大きく表示されます。 |
 
 ## 使用技術
