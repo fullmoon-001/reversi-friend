@@ -1,0 +1,14 @@
+*.iml
+.gradle/
+.gradle-user-home/
+.android-user-home/
+.setup/
+.tmp/
+.idea/
+.kotlin/
+build/
+local.properties
+app/build/
+captures/
+.cxx/
+publish/
