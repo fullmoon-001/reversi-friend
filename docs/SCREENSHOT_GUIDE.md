@@ -32,9 +32,21 @@ GitHubとitch.ioに載せるスクリーンショットは、最初は3枚で十
 ## ファイル名の例
 
 ```text
-screenshot_menu.png
-screenshot_game.png
-screenshot_result.png
+screenshots/screenshot_menu.png
+screenshots/screenshot_game.png
+screenshots/screenshot_result.png
 ```
 
 あとで `README.md` や itch.ioページに貼ります。
+
+## 今回使う画像
+
+今回の3枚は、以下の名前で保存してください。
+
+```text
+1枚目: screenshots/screenshot_menu.png
+2枚目: screenshots/screenshot_game.png
+3枚目: screenshots/screenshot_result.png
+```
+
+保存できたら、READMEのスクリーンショット欄を画像表示に切り替えます。
