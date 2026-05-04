@@ -28,6 +28,7 @@
 ## itch.io公開前
 
 - [x] itch.ioページ用テキストを `docs/ITCH_IO_PAGE_TEXT.md` に追加する
+- [x] itch.io規約チェックを `docs/ITCH_IO_POLICY_CHECK.md` に追加する
 - [x] アップロード用APKを `publish/reversi-friend-v0.1.0.apk` に用意する
 - [ ] APKをアップロードする
 - [ ] 対応OSをAndroidにする
