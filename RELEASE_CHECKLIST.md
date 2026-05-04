@@ -30,12 +30,13 @@
 - [x] itch.ioページ用テキストを `docs/ITCH_IO_PAGE_TEXT.md` に追加する
 - [x] itch.io規約チェックを `docs/ITCH_IO_POLICY_CHECK.md` に追加する
 - [x] アップロード用APKを `publish/reversi-friend-v0.1.0.apk` に用意する
-- [ ] APKをアップロードする
-- [ ] 対応OSをAndroidにする
-- [ ] 無料、投げ銭、有料のどれにするか決める
-- [ ] スクリーンショットを3枚以上用意する
-- [ ] インストール方法を日本語で書く
-- [ ] 「提供元不明のアプリ」許可が必要な場合があることを書く
+- [x] APKをアップロードする
+- [x] 対応OSをAndroidにする
+- [x] 無料、投げ銭、有料のどれにするか決める
+- [x] スクリーンショットを3枚以上用意する
+- [x] インストール方法を日本語で書く
+- [x] 「提供元不明のアプリ」許可が必要な場合があることを書く
+- [x] 公開URL: https://fullmoon-001.itch.io/reversi-friend
 
 ## Google Play公開前
 

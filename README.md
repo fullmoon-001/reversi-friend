@@ -171,6 +171,12 @@ app/src/main/res/drawable-nodpi/
 
 ## GitHub / itch.io公開メモ
 
+itch.io公開ページ:
+
+```text
+https://fullmoon-001.itch.io/reversi-friend
+```
+
 公開手順とコピペ用テキストは `docs/` にまとめています。
 
 ```text
