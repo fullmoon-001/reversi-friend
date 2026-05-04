@@ -143,14 +143,18 @@ app/src/main/res/drawable-nodpi/
 セリフは `BattleMessage.kt` にまとめています。  
 リカ、マイ、それぞれの戦況別メッセージ配列を変更すると、会話内容を差し替えられます。
 
-## 公開前に直した点
+## 公開メモ
 
-- `applicationId` を `com.example.reversifriend` から `com.reversifriend.app` に変更しました。
-- ネット通信、広告、課金、ログインを使っていない状態にしています。
-- Android Manifestのバックアップ設定を無効化しました。
-- READMEを現在の機能に合わせて更新しました。
-- 簡易プライバシーポリシーを `PRIVACY_POLICY.md` に追加しました。
-- 公開前チェックリストを `RELEASE_CHECKLIST.md` に追加しました。
+このアプリはポートフォリオ・テスト配布向けの初期版です。
+
+- ネット通信なし
+- 広告なし
+- 課金なし
+- ログインなし
+- 個人情報の収集なし
+
+プライバシーポリシーは `PRIVACY_POLICY.md` にまとめています。  
+公開前の細かい確認事項は `RELEASE_CHECKLIST.md` に分けています。
 
 ## 今後追加できる機能
 
@@ -164,29 +168,6 @@ app/src/main/res/drawable-nodpi/
 - 勝率表示
 - 盤面テーマ変更
 - 石デザイン変更
-
-## Google Play公開前に確認すべき点
-
-- 新規個人開発者アカウントのクローズドテスト条件は、必ずGoogle Play Consoleの最新ヘルプで確認します。
-- Google公式ヘルプでは、2023年11月13日以降に作成された個人開発者アカウントは、本番公開前に12人以上のテスターが14日間継続してクローズドテストに参加していることが必要と説明されています。
-- Google Playでは、2025年8月31日以降、新規アプリとアップデートはAndroid 15、API 35以上をターゲットにする必要があります。このアプリは現在 `targetSdk = 36` です。
-- プライバシーポリシーが必要か確認します。
-- 広告、課金、データ収集を入れる場合は、データセーフティや広告IDなどの申告が必要になる可能性があります。
-- 画像素材の権利を確認します。
-- AI生成画像を使う場合は、利用規約と商用利用条件を確認します。
-- `オセロ` / `Othello` は使わず、アプリ名やストア説明では `リバーシ` または `Reversi` を使う方針にします。
-- 対象年齢、ファミリー向けにするかどうか、ストア説明文、スクリーンショット、アプリ署名を確認します。
-
-## 公式情報リンク
-
-- Google Play Console: App testing requirements for new personal developer accounts  
-  https://support.google.com/googleplay/android-developer/answer/14151465
-- Google Play Console: Set up an open, closed, or internal test  
-  https://support.google.com/googleplay/android-developer/answer/9845334
-- Android Developers: Target API level requirements  
-  https://developer.android.com/google/play/requirements/target-sdk
-- Android Developers: Prepare and release an app  
-  https://developer.android.com/studio/publish
 
 ## GitHub / itch.io公開メモ
 

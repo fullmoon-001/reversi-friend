@@ -55,3 +55,14 @@
 - Google Play用には、デバッグ署名ではなく正式な署名設定が必要です。
 - Google Playに一度出した `applicationId` は、基本的に後から変更できません。
 - キャラクター画像を本公開する場合は、AI生成画像の利用条件と権利説明を残してください。
+
+## 公式情報リンク
+
+- Google Play Console: App testing requirements for new personal developer accounts  
+  https://support.google.com/googleplay/android-developer/answer/14151465
+- Google Play Console: Set up an open, closed, or internal test  
+  https://support.google.com/googleplay/android-developer/answer/9845334
+- Android Developers: Target API level requirements  
+  https://developer.android.com/google/play/requirements/target-sdk
+- Android Developers: Prepare and release an app  
+  https://developer.android.com/studio/publish
